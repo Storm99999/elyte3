@@ -11,6 +11,9 @@
 * Tab Indentation
 * Console Double Buffering
 
+# How To Pronounce Elyte
+(EL)(ITE)
+
 # How To Submit Distribution
 Open a pull request, i'll look into it.
 
