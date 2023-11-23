@@ -1,6 +1,10 @@
 # elyte3
 3rd Generation of the Elyte Code Editor.
 
+# Preview
+![image](https://github.com/Storm99999/elyte3/assets/87811650/b21672e2-5c39-42cf-a736-8efe7d9f49e4)
+
+
 # How To Submit Distribution
 Open a pull request, i'll look into it.
 
