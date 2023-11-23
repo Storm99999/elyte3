@@ -2,4 +2,4 @@
 3rd Generation of the Elyte Code Editor.
 
 # Usage
-.\elyte3.exe <FILEPATH>
+.\elyte3.exe (INSERT FILE PATH HERE)
