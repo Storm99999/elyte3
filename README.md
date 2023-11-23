@@ -4,6 +4,9 @@
 # How To Submit Distribution
 Open a pull request, i'll look into it.
 
+# Wheres the exe?
+Just compile from source. It's really simple with Visual Studio 2022.
+
 # Usage
 .\elyte3.exe (INSERT FILE PATH HERE)
 
