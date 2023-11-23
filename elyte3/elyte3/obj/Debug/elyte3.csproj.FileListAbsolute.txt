@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\elyte3\elyte3\obj\Debug\elyte3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\elyte3\elyte3\obj\Debug\elyte3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\elyte3\elyte3\bin\Debug\elyte3.exe.config
+C:\Users\Admin\source\repos\elyte3\elyte3\bin\Debug\elyte3.exe
+C:\Users\Admin\source\repos\elyte3\elyte3\bin\Debug\elyte3.pdb
+C:\Users\Admin\source\repos\elyte3\elyte3\obj\Debug\elyte3.exe
+C:\Users\Admin\source\repos\elyte3\elyte3\obj\Debug\elyte3.pdb
