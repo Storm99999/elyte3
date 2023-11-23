@@ -1,6 +1,9 @@
 # elyte3
 3rd Generation of the Elyte Code Editor.
 
+# How To Submit Distribution
+Open a pull request, i'll look into it.
+
 # Usage
 .\elyte3.exe (INSERT FILE PATH HERE)
 
